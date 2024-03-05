@@ -5,3 +5,14 @@ CS10
 - [ ] index.html
 - [ ] Boiler plate
 - [ ] 
+
+---
+
+# Document map
+- [ ] Home page
+- [ ] TextExpiremental
+- [ ] Viewport
+- [ ] Templates
+- [ ] Images
+
+---
